@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/aboot/aboot",
+    "pages/index/index"
+  ],
+  "sitemapLocation": "sitemap18.json"
+}

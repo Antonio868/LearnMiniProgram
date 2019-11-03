@@ -1,0 +1,9 @@
+<!--pages/home/home.wxml-->
+<view>
+<text class="title">这是一个小程序页面 </text>
+</view> 
+<view><text class="title">hello word </text></view>
+<view><input name="name" disabled="disabled"></input></view>
+<view><button size="mini">按钮</button>
+
+</view>
